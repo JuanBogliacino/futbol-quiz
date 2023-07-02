@@ -332,7 +332,7 @@ export const questions = [
 	{
 		id: 17,
 		difficulty: 'Medio',
-		question: '¿Cómo terminó el partido en el Argentina le gana a Perú en el mundial de 1978?',
+		question: '¿Cómo terminó el partido en el que Argentina le gana a Perú en el mundial de 1978?',
 		category: argentina,
 		correct_answer: '6-0',
 		incorrect_answers: ['3-0', '4-0', '5-0'],
